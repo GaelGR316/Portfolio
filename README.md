@@ -13,7 +13,7 @@
 <h4 align="center">Estudiante de Ing en Comp. Desarrollador (Lenguajes de Programación C++ y Python)
 </div>
 
-<img width="35" src="https://media1.tenor.com/m/88_FwmWEHIoAAAAd/cat-stare.gif">
+<h1 align="center"><img width="35" src="https://media1.tenor.com/m/88_FwmWEHIoAAAAd/cat-stare.gif"> </h1>
 
 
                                                                                    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
